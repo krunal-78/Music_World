@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1623824158 source:c:\users\isha\desktop\f\music_world\src\project.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"Project.h"
+
+1623823817 c:\users\isha\desktop\f\music_world\include\project.h
+	<bits/stdc++.h>
+
+1623847234 source:c:\users\isha\desktop\f\music_world\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<mmsystem.h>
+	"Project.h"
+	<bits/stdc++.h>
+
+1623848277 source:c:\users\isha\desktop\f\music_world_202001163_202001158\project_files\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<mmsystem.h>
+	"Project.h"
+	<bits/stdc++.h>
+
+1623823817 c:\users\isha\desktop\f\music_world_202001163_202001158\project_files\include\project.h
+	<bits/stdc++.h>
+
+1623824158 source:c:\users\isha\desktop\f\music_world_202001163_202001158\project_files\src\project.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"Project.h"
+
+1623848277 source:c:\users\isha\desktop\f\music_world_202001163_202001158\music_world_202001163_202001158\project_files\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<mmsystem.h>
+	"Project.h"
+	<bits/stdc++.h>
+
+1623823817 c:\users\isha\desktop\f\music_world_202001163_202001158\music_world_202001163_202001158\project_files\include\project.h
+	<bits/stdc++.h>
+
+1623824158 source:c:\users\isha\desktop\f\music_world_202001163_202001158\music_world_202001163_202001158\project_files\src\project.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	"Project.h"
+
